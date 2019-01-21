@@ -22,4 +22,4 @@ dotfiles : github.com/hellricer/hellricer-8bit
         |   | |   |   \  `-. '-'   '-'  '-'   '..'
         '^^^' '^^^'    '--'
 ```
-<img src="screenshot.png" alt="screenshot" width="300px"/>
+![](screenshot.png)
