@@ -11,9 +11,10 @@
                                       \_\/       \_\/
 DE       : gnome
 WMs      : awesome
-font     : unscii-16            [pelulamu.net/unscii/]
-icons    : based on RetroPixel  [gnome-look.org/p/1012088/]
+font     : unscii-16                [pelulamu.net/unscii/]
+icons    : based on RetroPixel [gnome-look.org/p/1012088/]
 engine   : arc-theme
+wmtheme  : steamburn    [github.com/lcpz/awesome-copycats]
 dotfiles : github.com/hellricer/hellricer-8bit
 
 
