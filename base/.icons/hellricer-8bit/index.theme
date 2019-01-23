@@ -31,10 +31,11 @@ Context=Devices
 Type=Scalable
 
 [scalable/emblems]
-Size=48
+MinSize=64
+Size=128
+MaxSize=256
 Context=Emblems
 Type=Scalable
-MaxSize=128
 
 [scalable/mimetypes]
 Size=48
