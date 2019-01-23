@@ -1,6 +1,6 @@
-set mainfont {{Nimbus Sans L} 8}
-set textfont {Terminus 9}
-set uifont {{DejaVu Sans} 8}
+set mainfont {unscii 10}
+set textfont {unscii 10}
+set uifont {unscii 10}
 set tabstop 8
 set findmergefiles 0
 set maxgraphpct 50
@@ -20,9 +20,9 @@ set uicolor #3c3c3c
 set want_ttk 0
 set bgcolor #464646
 set fgcolor #968c86
-set uifgcolor #888888
+set uifgcolor #dbdbdb
 set uifgdisabledcolor #888888
-set colors {#7f9f7f #cc9393 #8cd0d3 #dc8cc3 darkgrey brown #dfaf8f}
+set colors {#dbdbdb #cc9393 #8cd0d3 #dc8cc3 darkgrey brown #dfaf8f}
 set diffcolors {"#9c6363" "#5f7f5f" "#6ca0a3"}
 set mergecolors {#cc9393 #8cd0d3 #7f9f7f #dc8cc3 brown #009090 magenta #808000 #009000 #ff0080 cyan #b07070 #70b0f0 #70f0b0 #f0b070 #ff70b0}
 set markbgcolor #e0e0ff
@@ -55,8 +55,8 @@ set geometry(main) 2874x1549+0+25
 set geometry(state) normal
 set geometry(topwidth) 2872
 set geometry(topheight) 352
-set geometry(pwsash0) "1894 1"
-set geometry(pwsash1) "1898 1"
-set geometry(botwidth) 1906
+set geometry(pwsash0) "1141 1"
+set geometry(pwsash1) "1145 1"
+set geometry(botwidth) 2854
 set geometry(botheight) 1185
 set permviews {}
