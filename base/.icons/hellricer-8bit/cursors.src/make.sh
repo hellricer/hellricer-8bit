@@ -44,6 +44,7 @@ xcursorgen lr_angle.in ../cursors/lr_angle
 xcursorgen X_cursor.in ../cursors/X_cursor
 #xcursorgen crosshair.in ../cursors/crosshair
 xcursorgen crosshair.in ../cursors/cell
+xcursorgen fleur.in ../cursors/fleur
 xcursorgen cross.in ../cursors/cross
 xcursorgen tcross.in ../cursors/tcross
 xcursorgen dotbox.in ../cursors/dotbox

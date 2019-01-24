@@ -1,3 +1,6 @@
+! after the stow, include this file in ~/.Xdefaults or ~/.Xresources like this:
+! #include "/home/user/.Xresources.theme"
+
 ! special
 *.foreground:   #d88166
 *.background:   #333333

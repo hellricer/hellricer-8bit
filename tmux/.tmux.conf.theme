@@ -1,3 +1,6 @@
+# after stow, you can include this file in your ~/.tmux.conf like this:
+# source-file ~/.tmux.conf.theme
+
 # panes
 set -g pane-border-fg colour0
 set -g pane-active-border-fg colour0

@@ -1,3 +1,4 @@
 [Icon Theme]
 Name=hellricer-8bit
 Comment=Pixelized Adwaita
+Inherits=Adwaita
